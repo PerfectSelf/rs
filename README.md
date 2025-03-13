@@ -1,4 +1,13 @@
-# Open Deep Research
+# Consultant Research Bot
+
+A professional research assistant for consultants built on top of Open Deep Research.
+
+This repository contains:
+
+1. The main Deep Research API - AI-powered research assistant
+2. Consultant Research Bot - A professional UI and backend for consultants
+
+## Open Deep Research
 
 An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 
